@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-hello/static/css/main.52a5d725.css",
+    "main.js": "/react-hello/static/js/main.15a87de1.js",
+    "static/media/03.png": "/react-hello/static/media/03.9caf2543adcf4281a225.png",
+    "static/media/04.png": "/react-hello/static/media/04.00abddb2af04fa26cb10.png",
+    "static/media/02.png": "/react-hello/static/media/02.d407446539369a20b576.png",
+    "static/media/05.png": "/react-hello/static/media/05.23c9285f3f47cfb90f85.png",
+    "static/media/01.png": "/react-hello/static/media/01.002e50cc954b41b5d37b.png",
+    "static/media/06.png": "/react-hello/static/media/06.29c906ddc067c39d8442.png",
+    "static/media/07.png": "/react-hello/static/media/07.d401a3f09a87e540702f.png",
+    "static/media/09.png": "/react-hello/static/media/09.728918543d13fa1c9a5c.png",
+    "static/media/logo.svg": "/react-hello/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-hello/index.html",
+    "main.52a5d725.css.map": "/react-hello/static/css/main.52a5d725.css.map",
+    "main.15a87de1.js.map": "/react-hello/static/js/main.15a87de1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52a5d725.css",
+    "static/js/main.15a87de1.js"
+  ]
+}
